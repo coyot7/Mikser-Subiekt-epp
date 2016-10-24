@@ -1,0 +1,9 @@
+C:\Projekty\Mikser\Mikser\Mikser\bin\Debug\Mikser.exe.config
+C:\Projekty\Mikser\Mikser\Mikser\bin\Debug\Mikser.exe
+C:\Projekty\Mikser\Mikser\Mikser\bin\Debug\Mikser.pdb
+C:\Projekty\Mikser\Mikser\Mikser\obj\Debug\Mikser.csprojResolveAssemblyReference.cache
+C:\Projekty\Mikser\Mikser\Mikser\obj\Debug\Mikser.Form1.resources
+C:\Projekty\Mikser\Mikser\Mikser\obj\Debug\Mikser.Properties.Resources.resources
+C:\Projekty\Mikser\Mikser\Mikser\obj\Debug\Mikser.csproj.GenerateResource.Cache
+C:\Projekty\Mikser\Mikser\Mikser\obj\Debug\Mikser.exe
+C:\Projekty\Mikser\Mikser\Mikser\obj\Debug\Mikser.pdb
